@@ -1,0 +1,6 @@
+Run
+words
+integer is the data type
+My name is Moiz
+Hello world program is the common program
+ for programmers to grasp concepts
